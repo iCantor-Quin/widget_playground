@@ -1,0 +1,158 @@
+HTTrack3.49-2 launched on Mon, 01 Jul 2024 10:30:00 at https://www.medrie.nl/
+(httrack -p1 https://www.medrie.nl/ -V if grep -iE "TITLE" "$0">/dev/null; then echo "Match found at $0"; fi )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:30:01	Warning: 	Note: due to https://www.medrie.nl remote robots.txt rules, links beginning with these path will be forbidden: /umbraco/, /umbraco, /*PHPSESSID, /App_Browsers/, /App_Code/, /bin/, /Config/, /ErrorPages/, /Umbraco/, /Umbraco_Client/, /Views/, /Global.ashx, /default.aspx (see in the options to disable this)
+10:30:41	Warning: 	Moved Permanently for https://www.medrie.nl/liegt-ein-notfall-vor-notfallzentrum-nur-fur-notfalle/
+10:30:41	Warning: 	File has moved from https://www.medrie.nl/liegt-ein-notfall-vor-notfallzentrum-nur-fur-notfalle/ to https://www.medrie.nl/liegt-ein-notfall-vor-notfallzentrum-nur-fur-notfalle
+10:31:13	Warning: 	Moved Permanently for https://www.medrie.nl/need-to-see-a-gp-urgently-general-practitioners-clinic-for-emergencies-only/
+10:31:13	Warning: 	File has moved from https://www.medrie.nl/need-to-see-a-gp-urgently-general-practitioners-clinic-for-emergencies-only/ to https://www.medrie.nl/need-to-see-a-gp-urgently-general-practitioners-clinic-for-emergencies-only
+10:31:15	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/
+10:31:15	Warning: 	File has moved from https://www.medrie.nl/patienten/ to https://www.medrie.nl/patienten
+10:31:51	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/
+10:31:51	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333
+10:31:53	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/
+10:31:53	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/ to https://www.medrie.nl/patienten/informatie-voor-patienten
+10:31:58	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/uw-ervaringen-als-patient/
+10:31:58	Warning: 	File has moved from https://www.medrie.nl/patienten/uw-ervaringen-als-patient/ to https://www.medrie.nl/patienten/uw-ervaringen-als-patient
+10:32:00	Warning: 	Moved Permanently for https://www.medrie.nl/clientenraad/
+10:32:00	Warning: 	File has moved from https://www.medrie.nl/clientenraad/ to https://www.medrie.nl/clientenraad
+10:32:01	Warning: 	Moved Permanently for https://www.medrie.nl/klacht-compliment/
+10:32:01	Warning: 	File has moved from https://www.medrie.nl/klacht-compliment/ to https://www.medrie.nl/klacht-compliment
+10:32:02	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/
+10:32:02	Warning: 	File has moved from https://www.medrie.nl/professionals/ to https://www.medrie.nl/professionals
+10:32:03	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/
+10:32:03	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken
+10:32:04	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/
+10:32:04	Warning: 	File has moved from https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/ to https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio
+10:32:05	Warning: 	Moved Permanently for https://www.medrie.nl/medrie-actueel/
+10:32:05	Warning: 	File has moved from https://www.medrie.nl/medrie-actueel/ to https://www.medrie.nl/medrie-actueel
+10:32:06	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/
+10:32:06	Warning: 	File has moved from https://www.medrie.nl/over-medrie/ to https://www.medrie.nl/over-medrie
+10:32:07	Warning: 	Moved Permanently for https://www.medrie.nl/contact/
+10:32:07	Warning: 	File has moved from https://www.medrie.nl/contact/ to https://www.medrie.nl/contact
+10:32:08	Warning: 	Moved Permanently for https://www.medrie.nl/nieuws/
+10:32:08	Warning: 	File has moved from https://www.medrie.nl/nieuws/ to https://www.medrie.nl/nieuws
+10:32:09	Warning: 	Moved Permanently for https://www.medrie.nl/privacy/
+10:32:09	Warning: 	File has moved from https://www.medrie.nl/privacy/ to https://www.medrie.nl/privacy
+10:32:10	Warning: 	Moved Permanently for https://www.medrie.nl/veilig-mailen-met-medrie/
+10:32:10	Warning: 	File has moved from https://www.medrie.nl/veilig-mailen-met-medrie/ to https://www.medrie.nl/veilig-mailen-met-medrie
+10:32:16	Warning: 	Moved Permanently for https://www.medrie.nl/algemene-voorwaarden/
+10:32:16	Warning: 	File has moved from https://www.medrie.nl/algemene-voorwaarden/ to https://www.medrie.nl/algemene-voorwaarden
+10:32:17	Warning: 	Moved Permanently for https://www.medrie.nl/wetenschappelijk-onderzoek/
+10:32:17	Warning: 	File has moved from https://www.medrie.nl/wetenschappelijk-onderzoek/ to https://www.medrie.nl/wetenschappelijk-onderzoek
+10:32:18	Warning: 	Moved Permanently for https://www.medrie.nl/disclaimer/
+10:32:18	Warning: 	File has moved from https://www.medrie.nl/disclaimer/ to https://www.medrie.nl/disclaimer
+10:36:04	Warning: 	Moved Permanently for https://www.medrie.nl/aandachtspunten-bellen-0900-nummer-huisartsenpost/
+10:36:04	Warning: 	File has moved from https://www.medrie.nl/aandachtspunten-bellen-0900-nummer-huisartsenpost/ to https://www.medrie.nl/aandachtspunten-bellen-0900-nummer-huisartsenpost
+10:36:05	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/bellen-met-huisartsenpost-welke-gegevens-bij-de-hand/
+10:36:05	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/bellen-met-huisartsenpost-welke-gegevens-bij-de-hand/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/bellen-met-huisartsenpost-welke-gegevens-bij-de-hand
+10:36:06	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/wanneer-moet-ik-contact-opnemen-met-de-huisartsenpost/
+10:36:06	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/wanneer-moet-ik-contact-opnemen-met-de-huisartsenpost/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/wanneer-moet-ik-contact-opnemen-met-de-huisartsenpost
+10:36:07	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/hoe-werkt-de-huisartsenpost/
+10:36:07	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/hoe-werkt-de-huisartsenpost/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/hoe-werkt-de-huisartsenpost
+10:36:08	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/de-huisartsenposten-van-medrie/
+10:36:08	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/de-huisartsenposten-van-medrie/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/de-huisartsenposten-van-medrie
+10:36:09	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/veelgestelde-vragen/
+10:36:09	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/veelgestelde-vragen/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/veelgestelde-vragen
+10:36:11	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/op-vakantie-in-de-regio-en-met-spoed-een-huisarts-nodig/
+10:36:11	Warning: 	File has moved from https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/op-vakantie-in-de-regio-en-met-spoed-een-huisarts-nodig/ to https://www.medrie.nl/patienten/met-spoed-een-huisarts-nodig-bel-0900-333-6-333/op-vakantie-in-de-regio-en-met-spoed-een-huisarts-nodig
+10:36:12	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/oogfoto-maken-zwolle-genemuiden-heerde-heino-elburg-kampen/
+10:36:12	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/oogfoto-maken-zwolle-genemuiden-heerde-heino-elburg-kampen/ to https://www.medrie.nl/patienten/informatie-voor-patienten/oogfoto-maken-zwolle-genemuiden-heerde-heino-elburg-kampen
+10:36:13	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/folders-voor-patienten/
+10:36:13	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/folders-voor-patienten/ to https://www.medrie.nl/patienten/informatie-voor-patienten/folders-voor-patienten
+10:36:14	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/mijn-factuur/
+10:36:14	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/mijn-factuur/ to https://www.medrie.nl/patienten/informatie-voor-patienten/mijn-factuur
+10:36:15	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/ketenzorg/
+10:36:15	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/ketenzorg/ to https://www.medrie.nl/patienten/informatie-voor-patienten/ketenzorg
+10:36:16	Warning: 	Moved Permanently for https://www.medrie.nl/patienten/informatie-voor-patienten/handleidingen-patientenportaal/
+10:36:16	Warning: 	File has moved from https://www.medrie.nl/patienten/informatie-voor-patienten/handleidingen-patientenportaal/ to https://www.medrie.nl/patienten/informatie-voor-patienten/handleidingen-patientenportaal
+10:36:17	Warning: 	Moved Permanently for https://www.medrie.nl/complimentenformulier-huisartsenpost-of-ketenzorg/
+10:36:17	Warning: 	File has moved from https://www.medrie.nl/complimentenformulier-huisartsenpost-of-ketenzorg/ to https://www.medrie.nl/complimentenformulier-huisartsenpost-of-ketenzorg
+10:36:18	Warning: 	Moved Permanently for https://www.medrie.nl/klachtenformulier-huisartsenpost/
+10:36:18	Warning: 	File has moved from https://www.medrie.nl/klachtenformulier-huisartsenpost/ to https://www.medrie.nl/klachtenformulier-huisartsenpost
+10:36:26	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/diabetes/
+10:36:26	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/diabetes/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/diabetes
+10:36:27	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/copd/
+10:36:27	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/copd/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/copd
+10:36:28	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/vrm/
+10:36:28	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/vrm/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/vrm
+10:36:29	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/doorontwikkeling-chronische-zorg/
+10:36:29	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/doorontwikkeling-chronische-zorg/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/doorontwikkeling-chronische-zorg
+10:36:30	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/samenwerken-in-de-wijk/
+10:36:30	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/samenwerken-in-de-wijk/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/samenwerken-in-de-wijk
+10:36:31	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ouderenzorg/
+10:36:31	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ouderenzorg/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ouderenzorg
+10:36:32	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/gecombineerde-leefstijlinterventie/
+10:36:32	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/gecombineerde-leefstijlinterventie/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/gecombineerde-leefstijlinterventie
+10:36:33	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ggz/
+10:36:33	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ggz/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/ggz
+10:36:34	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/laaggeletterdheid/
+10:36:34	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/laaggeletterdheid/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/laaggeletterdheid
+10:36:35	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/digivaardig-in-de-dagpraktijk/
+10:36:35	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/digivaardig-in-de-dagpraktijk/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/digivaardig-in-de-dagpraktijk
+10:36:36	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/
+10:36:36	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie
+10:36:37	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/financien/
+10:36:37	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/financien/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/financien
+10:36:38	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/keteninformatiesysteem-kis/
+10:36:38	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/keteninformatiesysteem-kis/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/keteninformatiesysteem-kis
+10:36:39	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/no-show-beleid/
+10:36:39	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/no-show-beleid/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/no-show-beleid
+10:36:40	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/rekentool-poh-s/
+10:36:40	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/rekentool-poh-s/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/rekentool-poh-s
+10:36:41	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/opleiden/
+10:36:41	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/opleiden/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/opleiden
+10:36:42	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/toekomstbestendige-huisartsenzorg/
+10:36:42	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/toekomstbestendige-huisartsenzorg/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/toekomstbestendige-huisartsenzorg
+10:36:43	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/huisarts-worden-in-onze-regio/
+10:36:43	Warning: 	File has moved from https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/huisarts-worden-in-onze-regio/ to https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/huisarts-worden-in-onze-regio
+10:36:44	Warning: 	Moved Permanently for https://www.medrie.nl/vacatures-huisartsen/
+10:36:44	Warning: 	File has moved from https://www.medrie.nl/vacatures-huisartsen/ to https://www.medrie.nl/vacatures-huisartsen
+10:36:44	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/verhalen-van-collega-s/
+10:36:44	Warning: 	File has moved from https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/verhalen-van-collega-s/ to https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/verhalen-van-collega-s
+10:36:45	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/aan-de-slag-als-aios/
+10:36:45	Warning: 	File has moved from https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/aan-de-slag-als-aios/ to https://www.medrie.nl/professionals/huisarts-aios-worden-in-de-medrie-regio/aan-de-slag-als-aios
+10:36:50	Warning: 	Moved Permanently for https://www.medrie.nl/medrie-actueel/medrie-magazine-zomer-2024/
+10:36:50	Warning: 	File has moved from https://www.medrie.nl/medrie-actueel/medrie-magazine-zomer-2024/ to https://www.medrie.nl/medrie-actueel/medrie-magazine-zomer-2024
+10:36:51	Warning: 	Moved Permanently for https://www.medrie.nl/medrie-actueel/landelijke-publiekscampagne-huisartsenspoedposten-van-start/
+10:36:51	Warning: 	File has moved from https://www.medrie.nl/medrie-actueel/landelijke-publiekscampagne-huisartsenspoedposten-van-start/ to https://www.medrie.nl/medrie-actueel/landelijke-publiekscampagne-huisartsenspoedposten-van-start
+10:36:52	Warning: 	Moved Permanently for https://www.medrie.nl/medrie-actueel/vonnis-rechtbank-zwolle-rechtszaak-medrie-co-med/
+10:36:52	Warning: 	File has moved from https://www.medrie.nl/medrie-actueel/vonnis-rechtbank-zwolle-rechtszaak-medrie-co-med/ to https://www.medrie.nl/medrie-actueel/vonnis-rechtbank-zwolle-rechtszaak-medrie-co-med
+10:37:32	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/missie-visie-kernwaarden/
+10:37:32	Warning: 	File has moved from https://www.medrie.nl/over-medrie/missie-visie-kernwaarden/ to https://www.medrie.nl/over-medrie/missie-visie-kernwaarden
+10:37:34	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/organisatie/
+10:37:34	Warning: 	File has moved from https://www.medrie.nl/over-medrie/organisatie/ to https://www.medrie.nl/over-medrie/organisatie
+10:38:08	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/strategie/
+10:38:08	Warning: 	File has moved from https://www.medrie.nl/over-medrie/strategie/ to https://www.medrie.nl/over-medrie/strategie
+10:38:19	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/innovatie/
+10:38:19	Warning: 	File has moved from https://www.medrie.nl/over-medrie/innovatie/ to https://www.medrie.nl/over-medrie/innovatie
+10:38:59	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/jaarverslagen/
+10:38:59	Warning: 	File has moved from https://www.medrie.nl/over-medrie/jaarverslagen/ to https://www.medrie.nl/over-medrie/jaarverslagen
+10:39:07	Warning: 	Moved Permanently for https://www.medrie.nl/over-medrie/aandeelhouders/
+10:39:07	Warning: 	File has moved from https://www.medrie.nl/over-medrie/aandeelhouders/ to https://www.medrie.nl/over-medrie/aandeelhouders
+10:39:47	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-flevoland/
+10:39:47	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-flevoland/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-flevoland
+10:39:51	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-hardenberg/
+10:39:51	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-hardenberg/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-hardenberg
+10:39:53	Warning: 	Moved Permanently for https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-zwolle/
+10:39:53	Warning: 	File has moved from https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-zwolle/ to https://www.medrie.nl/professionals/ondersteuning-dagpraktijken/regio-organisatie/regio-zwolle
+10:41:18	Warning: 	Moved Permanently for https://www.medrie.nl/nieuws/persoonsgericht-werken-belangrijk-thema-doorontwikkeling-chronische-zorg/
+10:41:18	Warning: 	File has moved from https://www.medrie.nl/nieuws/persoonsgericht-werken-belangrijk-thema-doorontwikkeling-chronische-zorg/ to https://www.medrie.nl/nieuws/persoonsgericht-werken-belangrijk-thema-doorontwikkeling-chronische-zorg
+10:41:19	Warning: 	Moved Permanently for https://www.medrie.nl/nieuws/voeding-en-leefstijl-in-de-chronische-zorg-d-d-3-december-2024/
+10:41:19	Warning: 	File has moved from https://www.medrie.nl/nieuws/voeding-en-leefstijl-in-de-chronische-zorg-d-d-3-december-2024/ to https://www.medrie.nl/nieuws/voeding-en-leefstijl-in-de-chronische-zorg-d-d-3-december-2024
+10:41:20	Warning: 	Moved Permanently for https://www.medrie.nl/nieuws/online-ervaringen-uitwisselen-mtvp/
+10:41:20	Warning: 	File has moved from https://www.medrie.nl/nieuws/online-ervaringen-uitwisselen-mtvp/ to https://www.medrie.nl/nieuws/online-ervaringen-uitwisselen-mtvp
+10:44:36	Warning: 	Moved Permanently for https://www.medrie.nl/vacatures-bij-dagpraktijken/
+10:44:36	Warning: 	File has moved from https://www.medrie.nl/vacatures-bij-dagpraktijken/ to https://www.medrie.nl/vacatures-bij-dagpraktijken
+10:47:18	Warning: 	Moved Permanently for https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-praktijkmanager-genemuiden-24-uur-per-week/
+10:47:18	Warning: 	File has moved from https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-praktijkmanager-genemuiden-24-uur-per-week/ to https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-praktijkmanager-genemuiden-24-uur-per-week
+10:47:56	Warning: 	Moved Permanently for https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-zwolle-32-uur-per-week/
+10:47:56	Warning: 	File has moved from https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-zwolle-32-uur-per-week/ to https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-zwolle-32-uur-per-week
+10:48:35	Warning: 	Moved Permanently for https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-hasselt/
+10:48:35	Warning: 	File has moved from https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-hasselt/ to https://www.medrie.nl/vacatures-bij-dagpraktijken/vacature-doktersassistente-hasselt
+10:49:24	Error: 	Exit requested by shell or user

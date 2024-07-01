@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 01 Jul 2024 10:30:00 .. please wait!
+httrack -p1 https://www.medrie.nl/ -V "if grep -iE "TITLE" "$0">/dev/null; then echo "Match found at $0"; fi" 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=15578
+UID=502
+GID=502
+START=1719822600
