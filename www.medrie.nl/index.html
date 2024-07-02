@@ -6,7 +6,36 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
+    <script type="text/javascript">
+        (function (d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            v.onload = function () {
 
+                // Generate a unique user ID (example using a simple counter or UUID)
+                var userID = 'user_' + Math.random().toString(36).substr(2, 9);
+
+                window.voiceflow.chat.load({
+                    verify: { projectID: '6672cf86fd1e8c9f2ca75074' },
+                    url: 'https://general-runtime.voiceflow.com',
+                    versionID: 'production',
+                    userID: userID, // Pass the unique user ID here
+                    assistant: {
+                        onLoad: function () {
+                            window.voiceflow.chat.clearMemory(); // Clear memory at the start of each chat
+                        }
+                    },
+                    launch: {
+                        type: 'launch',
+                        payload: {
+                            naam: 'Medrie', // Initalizes huisartsenpraktijknaam
+                            nummer: '0900 333 6 333'
+                        }
+                    }
+                });
+            }
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+    </script>
 
     <!-- Google Tag Manager -->
     <script>
@@ -982,40 +1011,6 @@
         </div>
     </div>
     <div class="cookie-consent-data" data-id="1071" style="display: none !important;"></div>
-
-    <script>
-
-        var huisartsenpraktijkNaam = 'medrie';
-        var nummer = 'nummer';
-        (function (d, t) {
-            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
-            v.onload = function () {
-
-                // Generate a unique user ID (example using a simple counter or UUID)
-                var userID = 'user_' + Math.random().toString(36).substr(2, 9);
-
-                window.voiceflow.chat.load({
-                    verify: { projectID: '6659cde577754b6fd9042be1' },
-                    url: 'https://general-runtime.voiceflow.com',
-                    versionID: 'production',
-                    userID: userID, // Pass the unique user ID here
-                    assistant: {
-                        onLoad: function () {
-                            window.voiceflow.chat.clearMemory(); // Clear memory at the start of each chat
-                        }
-                    },
-                    launch: {
-                        type: 'launch',
-                        payload: {
-                            huisartsenpraktijk: huisartsenpraktijkNaam, // Initalizes huisartsenpraktijknaam
-                            nummer: nummer
-                        }
-                    }
-                });
-            }
-            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
-        })(document, 'script');
-    </script>
 
 
 </body>
